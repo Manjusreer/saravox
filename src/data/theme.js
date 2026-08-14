@@ -1,0 +1,15 @@
+export const COLORS = {
+  navy: "#0A1628",
+  navyMid: "#0D1F3C",
+  navyLight: "#132B52",
+  gold: "#C9A84C",
+  goldLight: "#E8C96A",
+  goldPale: "#FDF4DC",
+  white: "#FFFFFF",
+  offWhite: "#F7F9FC",
+  slate: "#8B9AB5",
+  slateLight: "#B8C5D9",
+  border: "rgba(201,168,76,0.2)",
+  glass: "rgba(255,255,255,0.04)",
+  glassBorder: "rgba(255,255,255,0.08)",
+};
